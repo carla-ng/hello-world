@@ -1,2 +1,2 @@
 # hello-world
-A Hello World repository.
+A Hello World repository v2.
